@@ -1,0 +1,7 @@
+{
+    "name": "show-available-housing",
+    "version": "0.0.1",
+    "label": "Show Available Housing",
+    "description": "Shows all housing units available to a player",
+    "dependencies": ["0ad=0.0.23"]
+}

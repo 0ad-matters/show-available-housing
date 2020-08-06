@@ -1,0 +1,6 @@
+#: gui/session/session_ShowMaxPop.js
+msgid "%(popCount)s/%(popLimit)s/%(popCap)s+%(popExcess)s"
+msgstr "%(popCount)s/%(popLimit)s/%(popCap)s+%(popExcess)s"
+
+msgid "Population (current / limit / cap+excess)"
+msgstr "Population (current / limit / cap+excess)"
